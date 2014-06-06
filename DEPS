@@ -382,7 +382,7 @@ deps = {
    'src/third_party/angle_dx11':
       Var("git.chromium.org") + '/external/angle.git@b93f84acdecd3eebf316750d8024b8b592c9012b',
    'src':
-      '/branches/1599_82/src@229927',
+      'https://src.chromium.org/chrome/branches/1599_82/src@229927',
    'src/third_party/hunspell':
       'http://src.chromium.org/chrome/trunk//deps/third_party/hunspell@206172',
    'src/testing/gtest':
