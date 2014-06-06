@@ -22,7 +22,7 @@ vars = {
   'bidichecker':
     'http://bidichecker.googlecode.com/svn',
   'gsutil':
-    'git@github.com/GoogleCloudPlatform/gsutil/',
+    'https://github.com/ribrain/chromium.git',
   'trace-viewer':
     'http://trace-viewer.googlecode.com/svn',
   'skia':
