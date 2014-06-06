@@ -22,7 +22,7 @@ vars = {
   'bidichecker':
     'http://bidichecker.googlecode.com/svn',
   'gsutil':
-    'https://github.com/ribrain/chromium.git',
+    'https://github.com/GoogleCloudPlatform/gsutil/',
   'trace-viewer':
     'http://trace-viewer.googlecode.com/svn',
   'skia':
@@ -426,7 +426,7 @@ deps = {
    'src/third_party/speex':
       'http://src.chromium.org/chrome/trunk/deps/third_party/speex@198168',
    'build/third_party/gsutil':
-      Var("gsutil") + '/trunk/src@263',
+      Var("gsutil") + '/@263',
    'src/third_party/snappy/src':
       Var("snappy") + '/trunk/@74',
    'src/third_party/webrtc':
